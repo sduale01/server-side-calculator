@@ -15,7 +15,7 @@ Calculator applications where the logic behind the app is done on the server.
 - jQuery
 - NPM
 ### Screen Shot
-![alt tag]('path/to/your/calculator.png')
+![alt tag](images/calculator.png)
 
 ### Author
 * Sharmarke Duale
