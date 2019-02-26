@@ -1,0 +1,89 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(255, 250, 250);
+}
+
+#container {
+    width: 300px;
+    margin: 0 auto;
+    
+    /* height: 100vh; */
+    /* border: 3px solid red; */
+}
+
+#pageTitle {
+    width: 225px;
+    color: rgb(68, 52, 52);
+}
+
+#calcContainer {
+    border: 2px solid black;
+    width: 225px;
+    background-color: black;
+    border-radius: 5px;
+}
+
+.button {
+    width: 50px;
+    height: 50px;
+    margin: 1px;
+    font-size: 30px;
+    background-color: rgb(235, 228, 228);
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+
+#mathOperationInput {
+    width: 205px;
+    height: 30px;
+    border: 1px solid black;
+    margin: 4px;
+    font-size: 30px;
+    padding: 5px;
+    background-color: rgb(252, 213, 213);
+    border-radius: 5px;
+}
+
+.operation-button {
+    background-color: rgb(243, 135, 12);
+}
+
+#reset-button, #equals-button {
+    background-color: rgb(154, 219, 154);
+}
+
+.number-button {
+    background-color: rgb(191, 223, 223);
+}
+
+#listContainer {
+    width: 205px;
+    /* border: 2px solid black; */
+    float: left;
+}
+
+#previousResults {
+    float: left;
+    width: 225px;
+    /* display: inline; */
+    list-style-type: circle;
+}
+
+#previousResults li {
+    float: left;
+    width: 112px;
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+.clear {
+    clear: both;
+    font-size: 0;
+}
+
+#results {
+    font-size: 33px;
+    color: rgb(2, 51, 43);
+}
