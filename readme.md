@@ -15,8 +15,7 @@ Calculator applications where the logic behind the app is done on the server.
 - jQuery
 - NPM
 ### Screen Shot
-![alt tag]('public/images/calculator.png')
-- Server grabs the value of the object that stores the math problem and gives back the value plus previous math problems in a list.
+![alt tag]('https://github.com/sduale01/server-side-calculator/blob/master/images/calculator.png')
 
 ### Author
 * Sharmarke Duale
